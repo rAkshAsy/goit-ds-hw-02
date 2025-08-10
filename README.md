@@ -46,5 +46,5 @@ pyproject.toml — конфігурація Poetry з описом залежн�
 
 
 
-## This file was created using ChatGPT
+## This README file was created using ChatGPT
    
